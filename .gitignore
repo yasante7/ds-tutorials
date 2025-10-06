@@ -1,0 +1,14 @@
+# Auto-generated .gitignore - ignores project files except README.md
+# Files and folders present in this directory to be ignored
+outline.docx
+outline.pdf
+outline2.docx
+projects.pdf
+Session_1_Python_Fundamentals_Environment_Setup.ipynb
+Session_2_Data_Manipulation_Pandas_NumPy.ipynb
+
+# Common extras (optional)
+# .ipynb_checkpoints/
+
+# Keep README.md tracked
+# README.md
